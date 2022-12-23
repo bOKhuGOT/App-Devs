@@ -5,6 +5,6 @@ MY FIRST REPOSITORY
 
 
 **FROM NETFLIX**
-1.Purple Hearts 
+1.Purple Heart
 2.Along for the ride
 3.The kissing booth
